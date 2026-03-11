@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.Oddnumbers {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#secondelement{
+    color: blue; 
+    font-size: 36px;
+}
+
+#thirdelement 
+{
+    font-size: 24px;
+}
+#fourthelement
+{
+    color: lightgreen; font-size: 24px;
+    font-weight: bold;
+}
